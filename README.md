@@ -54,7 +54,7 @@ Proyek ini mencerminkan **end-to-end pipeline NLP**, mulai dari data collection 
 
   * Logistic Regression (baseline)
   * BiLSTM (Deep Learning)
-  * IndoBERT (Transformer)
+  * IndoBERT (Transformer - Best Model)
 * ✅ Model optimization (tuning + hard negative mining)
 * ✅ Evaluasi lengkap:
 
@@ -148,6 +148,9 @@ Dataset telah melalui:
 
 📌 **Best Model: IndoBERT**
 
+📌 Catatan: Model tidak disertakan dalam repository karena ukuran file yang besar.
+Notebook telah mencakup seluruh proses training dan evaluasi sehingga tetap dapat direproduksi.
+
 ---
 
 ## 🔍 Insight Utama
@@ -178,7 +181,6 @@ Dataset telah melalui:
 │
 ├── hasil_prediksi.csv
 ├── confusion_matrix.png
-├── model.safetensors
 ├── README.md
 ```
 
