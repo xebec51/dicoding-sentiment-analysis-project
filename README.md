@@ -159,16 +159,6 @@ Dataset telah melalui:
 
 ---
 
-## 📎 Akses Notebook
-
-### 🚀 Jalankan di Google Colab
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xebec51/dicoding-sentiment-analysis-project/blob/main/Sentiment_Analysis.ipynb)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xebec51/dicoding-sentiment-analysis-project/blob/main/Scraping_Data.ipynb)
-
----
-
 ### 🔗 Lihat di GitHub
 
 * [📘 Sentiment Analysis Notebook](https://github.com/xebec51/dicoding-sentiment-analysis-project/blob/main/Sentiment_Analysis.ipynb)
