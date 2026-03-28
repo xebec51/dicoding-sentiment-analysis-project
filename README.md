@@ -143,8 +143,8 @@ Dataset telah melalui:
 | Model               | Accuracy  |
 | ------------------- | --------- |
 | Logistic Regression | 0.88      |
-| BiLSTM              | 0.83      |
-| IndoBERT            | **0.92+** |
+| BiLSTM              | 0.86      |
+| IndoBERT            | **0.92**  |
 
 📌 **Best Model: IndoBERT**
 
